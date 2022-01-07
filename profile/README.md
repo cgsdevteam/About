@@ -1,5 +1,3 @@
-# About
-
 ![](https://raw.githubusercontent.com/ciptagrahasoftware/.github/main/WhatsApp%20Image%202022-01-07%20at%2010.31.13.jpeg)
 
 # CV. Cipta Graha Software
