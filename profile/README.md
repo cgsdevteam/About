@@ -1,4 +1,4 @@
-# Cipta Graha Software
+# Cipta Graha Software 👋
 
 Perusahaan Pengembang Perangkat Lunak Yang Berbasis Di Kabupaten Pekalongan, Provinsi Jawa Tengah.
 
